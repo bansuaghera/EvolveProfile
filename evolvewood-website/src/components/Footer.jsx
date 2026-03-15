@@ -16,11 +16,7 @@ export default function Footer() {
                             Evolve Profile Industries is engaged in manufacturing of plastic packaging materials.
                             Dedicated to innovation and sustainability from start to finish.
                         </p>
-                        <div className="flex space-x-4 pt-2">
-                            <a href="#" className="bg-white/10 p-2 rounded-full hover:bg-evolve-green transition-colors"><Facebook size={18} /></a>
-                            <a href="#" className="bg-white/10 p-2 rounded-full hover:bg-evolve-green transition-colors"><Instagram size={18} /></a>
-                            <a href="#" className="bg-white/10 p-2 rounded-full hover:bg-evolve-green transition-colors"><Linkedin size={18} /></a>
-                        </div>
+                    
                     </div>
 
                     {/* Quick Links */}
